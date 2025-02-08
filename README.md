@@ -27,13 +27,10 @@
 
 ---
 
-## 📫 Connect with Me
+## 🔗 Connect with Me
 
 📩 Email: **ombaruwala86@gmail.com**  
-<a>
-  <img src="https://github.com/user-attachments/assets/1675d1af-feaa-4f5c-9532-441bc2941814" width="26" height="26" />
-  Github: **DipBond**
-</a>
+💼 **LinkedIn:** [Om Baruwala 💙](https://www.linkedin.com/in/om-baruwala-💙/)
 
 ---
 
