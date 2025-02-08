@@ -1,6 +1,6 @@
 ## Welcome to All Of You 🙏
 
-<img width="1834" alt="Make your README (2)" src="https://github.com/user-attachments/assets/b4c94446-c3a1-4837-937f-1c851fa72392" />
+<img width="1834" alt="Make your README (3)" src="https://github.com/user-attachments/assets/904eb218-7abf-4c3b-acaf-4ebb813ab4b7" />
 
 ## 🛠 Tech Stack
 
