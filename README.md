@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Om Baruwala
+# 👋 Hi, I'm Om Baruwala 💙
 
 🚀 **Aspiring Full-Stack Web Developer** | Passionate about creating amazing websites
 
