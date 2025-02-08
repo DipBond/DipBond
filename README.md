@@ -1,8 +1,6 @@
-# 👋 Hi, I'm Om Baruwala 💙
+## Welcome to All Of You 🙏
 
-🚀 **Aspiring Full-Stack Web Developer** | Passionate about creating amazing websites
-
----
+<img width="1834" alt="Make your README (2)" src="https://github.com/user-attachments/assets/b4c94446-c3a1-4837-937f-1c851fa72392" />
 
 ## 🛠 Tech Stack
 
@@ -18,6 +16,7 @@
 
 ## 📖 About Me
 
+- 🎓 Student of SDJ International College, Palsana
 - 📚 Currently **pursuing BCA (Bachelor of Computer Applications)**
 - 🚀 **Quick learner** & always eager to explore new technologies
 - 🤝 Great at **teamwork** and love collaborating on exciting projects
