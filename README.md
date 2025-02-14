@@ -29,7 +29,8 @@
 ## 🔗 Connect with Me
 
 📩 Email: **ombaruwala86@gmail.com**  
-💼 **LinkedIn:** [Om Baruwala 💙](https://www.linkedin.com/in/om-baruwala-653a52282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+## 💼 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om%20Baruwala-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/om-baruwala-653a52282)
 
 ---
 
